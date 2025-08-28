@@ -1,7 +1,8 @@
 # 📊 Müşteri Terk (Churn) Analizi & Müşteri Segmentasyonu & Mini Dashboard
 
 Bu proje, müşteri davranışlarını analiz ederek **müşteri terk (churn)** risklerini önceden tahmin etmeyi ve müşteri segmentasyonu yaparak pazarlama stratejilerini güçlendirmeyi hedeflemektedir. Ayrıca, proje kapsamında kullanıcı dostu bir **mini dashboard** geliştirilmiştir.
-
+---
+<img width="550" height="127" alt="Ekran görüntüsü 2025-08-28 144326" src="https://github.com/user-attachments/assets/3279c2c0-6b33-4f67-b02d-918c9d0c5ce3" />
 ---
 
 ## 🚀 Proje Amacı
